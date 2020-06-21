@@ -1,0 +1,75 @@
+/*
+ * App style
+ */
+
+
+ @font-face {
+    font-family: "Muli";
+    src: url("/fonts/Muli-Bold.ttf");
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: "Muli";
+    src: url("/fonts/Muli-Regular.ttf");
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: "OpenSans-Regular";
+    src: url("/fonts/OpenSans-Regular.ttf");
+}
+
+.title {
+    text-align: center;
+}
+
+.container {
+    max-width: 1195px;
+    margin: 0 auto;
+
+}
+
+.sidebar {
+    max-width: 300px;
+}
+
+.blocs-container {
+    margin: 25px auto;
+}
+
+.sidebar-container {
+    margin-top: 20px;
+}
+
+p {
+    font-family: 'Muli', Helvetica, sans-serif;
+    font-weight: 300;
+    color: #656565;
+}
+
+.login-footer {
+    margin: 25px 0;
+}
+
+.slogan {
+    font-weight: 700;
+    letter-spacing: 1px;
+    font-size: 18px;
+}
+
+.left {
+    text-align: left;
+}
+
+.peripherique-title {
+    text-transform: initial;
+    font-weight: 700;
+    color: black;
+}
+
+.hello {
+    font-weight: 700;
+    letter-spacing: 1px;
+    font-size: 16px;
+}

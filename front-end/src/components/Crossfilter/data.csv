@@ -1,0 +1,37 @@
+month,count,category
+Janvier,260,cars
+Janvier,220,trucks
+Janvier,480,all
+Février,610,cars
+Février,100,trucks
+Février,710,all
+Mars,220,cars
+Mars,120,trucks
+Mars,340,all
+Avril,421,cars
+Avril,189,trucks
+Avril,600,all
+Mai,211,cars
+Mai,489,trucks
+Mai,700,all
+Juin,690,cars
+Juin,252,trucks
+Juin,942,all
+Juillet,780,cars
+Juillet,328,trucks
+Juillet,1108,all
+Août,725,cars
+Août,255,trucks
+Août,980,all
+Septembre,665,cars
+Septembre,430,trucks
+Septembre,1095,all
+Octobre,575,cars
+Octobre,200,trucks
+Octobre,775,all
+Novembre,509,cars
+Novembre,201,trucks
+Novembre, 710, all
+Décembre,590,cars
+Décembre, 145,trucks
+Décembre,735,all

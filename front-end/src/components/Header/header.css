@@ -1,0 +1,86 @@
+body{
+    margin: 0px ;
+    padding:0px;
+    background-color: #f6f7fb;
+}
+
+#logo{
+    float: left;
+    width: 96px;
+    height: 45px;
+}
+
+.header-container {
+
+    margin: 0 auto;
+    padding: 5px 15px;
+    height: 60px;
+    box-shadow: 8px 8px 12px #eaeaea;
+    background-color: white;
+}
+
+i.large.icon, i.large.icons {
+    line-height: 1;
+    vertical-align: middle;
+    font-size: 18px;
+    margin: 12px;
+    color: #656565;
+}
+
+.menu-icon {
+    background: none;
+    border: none;
+}
+
+nav {
+    float: right;
+}
+
+.BreadRow {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color: #3eb2e5;
+    margin-top: 30px;
+}
+
+.rectangle {
+	width:20px;
+	height:20px;
+	background:#3eb2e5;
+}
+
+.BreadPolice {
+    font-family: "Muli-Bold";
+    font-weight: bold;
+    padding-left: 15px;
+}
+
+.left {
+    text-align: left;
+}
+
+.right {
+    text-align: right;
+}
+
+.inline {
+    display: flex;
+}
+
+.hello {
+    padding-right: 15px;
+    color: #3eb2e5;
+}
+
+.company {
+    padding-left: 10px;
+}
+
+i.icon.log:before {
+    cursor: pointer;
+}
+
+i.icon.user:before {
+    cursor: pointer;
+}

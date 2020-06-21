@@ -1,0 +1,20 @@
+.filters {
+   margin-right: 10px;
+}
+
+.container-heatmap {
+   margin: 20px 0;
+}
+
+.legendTitle {
+   font-size: 15px;
+}
+
+.title {
+   font-size: 18px;
+   font-weight: 700;
+}
+
+.heatmap {
+   margin: 50px 0;
+}

@@ -1,0 +1,56 @@
+body{
+    margin: 0px 0px 0px 0px;
+    padding: 0px;
+    text-align: center;
+    }
+    
+    .bg {
+        background-image: url("/assets/teste.gif");
+        background-repeat: no-repeat;
+        background-position: right;
+        color:
+        white;
+        box-shadow: 15px 15px 9px 4px
+        rgba(111, 111, 116, 0.54);
+        margin: 39px 28px 10px 32px;
+        
+        }
+    
+    .login-input {
+        max-width: 500px;
+    }
+    
+    
+    .login-space {
+        min-height: 500px;
+        padding: 100px;
+    }
+    
+    .white {
+        color: #FFFFFF;
+    }
+    
+    
+    
+    .login-title {
+        color: #656565;
+        text-align: center;
+        font-weight: 700;
+        font-size: 24px;
+        letter-spacing: 1px;
+        padding-bottom: 25px;
+        text-align: left;
+    }
+    
+    .login-opacity{
+        text-align: left;
+        margin: 10px 10px 10px -70px;
+    }
+    
+    p:last-child {
+    
+        
+        text-align: center;
+        
+    
+    }
